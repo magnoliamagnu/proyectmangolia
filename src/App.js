@@ -137,7 +137,7 @@ function App(){
           {/*Card */}
            <div>
             <div className="grid grid-cols-6 mb-4 p-4">
-              <h5 className="col-span-4">Articulo</h5>
+              <h5 className="col-span-4">Articulos</h5>
               <h5>Cantidad</h5>
               <h5>Precio</h5>
             </div>
